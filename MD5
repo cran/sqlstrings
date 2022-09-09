@@ -1,0 +1,10 @@
+23acca2b170bf57eea811993dedc7d5d *DESCRIPTION
+3d2489f2c65d617e034455662511b7cc *LICENSE
+18ed213fa0475dd572bfc9ef97abd28a *NAMESPACE
+e2d3cc52d0b3207d9356e3941fa09767 *NEWS.md
+c8e98b74c5ca89eccf20a66944e90de0 *R/sqlstrings.R
+4ff67bb1fd4bace486d777d125683789 *README.md
+fcf606f777c0d5ba51a46553a27a8b37 *man/generate_sql_strings.Rd
+c70d42ae94758ad93eb94061a3893e1f *tests/testthat.R
+b0a26419e15992d12349f22a00bb7cb9 *tests/testthat/helper.R
+8fd431545b6320d5b2b19bdf957c3242 *tests/testthat/test-sqlstrings.R
